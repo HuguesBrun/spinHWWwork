@@ -1,0 +1,8 @@
+mll&mll_shapesel&m(ll) [GeV]
+mth&mth_shapesel&M_{T} [GeV]
+dphill&dphill_shapesel&#Delta #phi_{ll}
+mtAsym&mtAsym_shapesel&M_{T}^{W} asym
+mt2&mt2_shapesel&M_{T2}
+diffMW1MT2&diffMW1MT2_shapesel&M_{T}^{W1} - M_{T2}
+diffMW2MT2&diffMW2MT2_shapesel&M_{T}^{W2} - M_{T2}
+drll&drll_shapesel&dr_{ll}
